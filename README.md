@@ -82,5 +82,5 @@ This project is licensed under the MIT License.
 
 ## ✍️ Author
 
-**Your Name Ibinabo Orifama**  
+**Ibinabo Orifama**  
 [GitHub](https://github.com/ibisoris)
