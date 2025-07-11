@@ -25,7 +25,7 @@ This notebook follows a complete data science workflow:
 
 ## 📁 Files
 
-- `0e911ce7-9de0-4746-a2a6-79def80489c9.ipynb`: Main notebook containing all code and analysis
+- `heart_disease.ipynb`: Main notebook containing all code and analysis
 - `heart-disease.csv`: Dataset (must be present in the same directory to run the notebook)
 
 ## 🛠️ Installation
@@ -82,5 +82,5 @@ This project is licensed under the MIT License.
 
 ## ✍️ Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername)
+**Your Name Ibinabo Orifama**  
+[GitHub](https://github.com/ibisoris)
